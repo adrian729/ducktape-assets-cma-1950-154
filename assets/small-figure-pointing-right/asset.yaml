@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: small-figure-pointing-right
+title: Haloed man in profile pointing right
+description: A small bearded man with a gold halo stands in profile facing right, his right arm stretched out and pointing, in an olive-green tunic and a blue mantle wrapped around the lower body, on a small red and gold base. The paint is heavily flaked, with pale parchment showing through the halo, face and mantle. The background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - human
+  - halo
+  - robe
+colors:
+  - blue
+  - green
+  - gold
+  - brown
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-1950-154/small-figure-facing-left
+    role: companion
+usage_notes:
+  - Pairs with haloed-man-in-blue-and-orange-robes, which faces left at the same scale; set them facing each other.
+display_width:
+  - 80
+  - 240
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Heavy original paint loss, with white flaking across the halo, face and mantle.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: Leaf from a Greek Psalter and New Testament
+  object_identifier: "1950.154"
+  date: "1084"
+  record_url: https://clevelandart.org/art/1950.154
+  image_url: https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95
+license: null

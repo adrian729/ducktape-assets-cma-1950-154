@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: standing-apostle-with-rolled-scroll
+title: Standing apostle with a scroll
+description: A grey-haired, bearded apostle stands facing the viewer in a blue tunic and an orange-brown mantle with white highlights, draped over his left shoulder and wrapped around his body; his right hand is raised before his chest in a gesture of speech and his left holds a white rolled scroll. He wears sandals. His halo is kept as a thin gold ring with the gold ground inside it removed. Cut from the framed miniature of the leaf; the background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - apostle
+  - halo
+  - scroll
+  - robe
+colors:
+  - orange
+  - blue
+  - gold
+  - brown
+facing: viewer
+view: front
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-1950-154/apostle-city-miniature
+    role: variant
+usage_notes:
+  - Cut-out of the figure in complete-apostle-city-scene-with-blue-vine-frame; the halo is an open ring, so it reads best on a plain or gold background.
+display_width:
+  - 120
+  - 360
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; no pixel is fully opaque (alpha peaks at 253, invisible in use) and the halo keeps only its gold outline.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: Leaf from a Greek Psalter and New Testament
+  object_identifier: "1950.154"
+  date: "1084"
+  record_url: https://clevelandart.org/art/1950.154
+  image_url: https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95
+license: null

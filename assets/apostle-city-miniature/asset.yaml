@@ -1,0 +1,62 @@
+# descriptive: find it and understand it
+id: apostle-city-miniature
+title: Apostle before a walled city, framed miniature
+description: The whole miniature from the leaf. A grey-haired, bearded apostle with a gold halo stands centred on a pale green ground facing the viewer, in a blue tunic and orange-brown mantle, right hand raised in speech and a rolled white scroll in his left. Pink and ochre city towers rise on either side with red cloth draped between them, on a burnished gold ground. A painted frame of a blue band with white curling vines between two narrow red and gold bands encloses the scene, with leaf flourishes at the four corners; it runs slightly askew. Opaque inside the frame, transparent outside.
+type: illustration
+categories:
+  - humans
+  - floral
+subjects:
+  - apostle
+  - halo
+  - scroll
+  - city
+  - tower
+  - architecture
+  - drapery
+  - frame
+  - vine
+colors:
+  - gold
+  - blue
+  - orange
+  - red
+  - green
+facing: viewer
+view: front
+composition: framed-scene
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-1950-154/blue-vine-frame
+    role: variant
+  - asset: cma-1950-154/standing-apostle-with-rolled-scroll
+    role: variant
+usage_notes:
+  - Complete framed miniature with its own gold ground; place it as a picture, not as a cut-out.
+  - The emptied frame is finite-blue-vine-and-red-gold-miniature-frame and the figure alone is standing-apostle-with-rolled-scroll.
+display_width:
+  - 400
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The painted frame is not rectangular (the top band drops about 1 degree to the left and the right band leans outward about 2 degrees, as on the leaf) and the gold ground shows wear.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: Leaf from a Greek Psalter and New Testament
+  object_identifier: "1950.154"
+  date: "1084"
+  record_url: https://clevelandart.org/art/1950.154
+  image_url: https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95
+license: null

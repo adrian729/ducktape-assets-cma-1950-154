@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: gold-s-shaped-leaf-on-red-repeat
+title: Gold S-leaf on red, repeat tile
+description: One cycle of the narrow red band of the miniature frame, a gold S-shaped leaf with a darker lobe painted on a dull red ground with gold speckling. The pattern continues across the left and right edges; the band's painted edges are slightly ragged and the thin strips above and below it are transparent.
+type: border
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - leaf
+colors:
+  - red
+  - gold
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+related:
+  - asset: cma-1950-154/blue-vine-frame
+    role: variant
+  - asset: cma-1950-154/white-curling-vine-on-blue-repeat
+    role: companion
+usage_notes:
+  - Repeat along x; use the generated rotated tile for a vertical band. In the frame this band runs on both sides of the blue vine band.
+  - Keep it at native size; the source band is only 70 px tall and blurs when enlarged.
+display_width:
+  - 35
+  - 70
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Square tile of one cycle at 70 px, the band's native height, so it softens above native size and its painted edges are ragged.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Cleveland Museum of Art
+  object_title: Leaf from a Greek Psalter and New Testament
+  object_identifier: "1950.154"
+  date: "1084"
+  record_url: https://clevelandart.org/art/1950.154
+  image_url: https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95
+license: null

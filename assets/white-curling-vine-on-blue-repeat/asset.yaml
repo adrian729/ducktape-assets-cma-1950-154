@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: white-curling-vine-on-blue-repeat
+title: White vine on blue, repeat tile
+description: One cycle of the blue band of the miniature frame. A white, grey-shaded vine stem curls into a spiral at the left, throws a three-lobed leaf upward at the centre and a hooked tendril downward, on a deep blue ground with dark speckling. The pattern continues across the left and right edges; the thin strips above and below the painted band are transparent.
+type: border
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - vine
+  - leaf
+colors:
+  - blue
+  - white
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+related:
+  - asset: cma-1950-154/blue-vine-frame
+    role: variant
+  - asset: cma-1950-154/gold-s-shaped-leaf-on-red-repeat
+    role: companion
+usage_notes:
+  - Repeat along x; use the generated rotated tile for a vertical band. In the frame it is flanked by gold-s-shaped-leaf-on-red-repeat on both sides.
+  - Keep it at or below native size; the source band is 111 px tall.
+display_width:
+  - 155
+  - 310
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Native height is 111 px, so it softens above native size; the blue ground keeps the original speckling and small white losses.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Cleveland Museum of Art
+  object_title: Leaf from a Greek Psalter and New Testament
+  object_identifier: "1950.154"
+  date: "1084"
+  record_url: https://clevelandart.org/art/1950.154
+  image_url: https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95
+license: null
