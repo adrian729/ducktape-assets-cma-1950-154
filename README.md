@@ -3,7 +3,7 @@
 
 Byzantine ornament and figures from a leaf of a Greek Psalter and New Testament written in Constantinople in 1084, Cleveland Museum of Art 1950.154.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-1950-154`, historical, 7 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-1950-154`, historical, 7 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `cma-1950-154/apostle-city-miniature`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1950-154@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1950-154@1.0.0/webp/apostle-city-miniature-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-cma-1950-154`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-cma-1950-154-masters`; never put a master on a page.
